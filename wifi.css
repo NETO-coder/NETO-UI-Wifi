@@ -1,0 +1,19 @@
+[wifi-Neto-UI]::before {
+  width:200px;
+  height:200px;
+  border:5px solid black;
+  border-radius:20%;
+  content: "\f1eb";
+  font-family: "Font Awesome 6 Free";
+  font-weight:900;
+  font-size:115px;
+  background:#988D8D;
+  justify-items:center;
+  justify-content:center;
+  align-items:center;
+  display:flex;
+}
+[wifi-Neto-UI]:hover::before {
+  color:white;
+  background:#00FA9A;
+}
