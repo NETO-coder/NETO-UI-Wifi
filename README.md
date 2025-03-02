@@ -6,9 +6,9 @@ How to use in html structure:
 <!DOCTYPE html>
 <html>
   <head>
-    <title></title>
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="wifi.css">
+    <title>testing</title>
+     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/NETO-coder/NETO-UI-Wifi@main/wifi.css">
   </head>
   <body>
     <div class="wife" wifi-Neto-UI></div>
